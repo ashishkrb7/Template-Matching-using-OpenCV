@@ -53,4 +53,4 @@ You can also use different methods of comparison like cv2.TM_CCOEFF, cv2.TM_CCOE
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/ashishkrb7/Template-Matching-using-OpenCV/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.

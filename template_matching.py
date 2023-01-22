@@ -83,7 +83,7 @@ def run(sourceimg, templateimg, outputfilename):
             (startX, startY) = (int(maxLoc[0] * r), int(maxLoc[1] * r))
             (endX, endY) = (int((maxLoc[0] + tW) * r), int((maxLoc[1] + tH) * r))
             cv2.rectangle(image, (startX, startY), (endX, endY), (0, 0, 255), 2)
-            cv2.imwrite(f"{outputfilename}.jpg", image)
+            cv2.imwrite(f"{outputfilename}.png", image)
 
             out = {"startX": startX, "startY": startY, "endX": endX, "endY": endY}
             print(out)

@@ -13,7 +13,7 @@ This repository contains a Python script for performing template matching using 
 The script takes in three command line arguments: the path to the source image, the path to the template image and output file name. Example usage:
 
 ```py
-python template_matching.py -s source.jpg -t template.jpg -o output
+python template_matching.py -s source.png -t template.png -o output
 ```
 
 The script will output the location of the best match, as well as save the source image with a rectangle drawn around the matched region.
@@ -21,6 +21,10 @@ The script will output the location of the best match, as well as save the sourc
 Note:-
 
 Please make sure that the template image is smaller than the source image.
+
+| Source Image  | Template Image  |  Output Image |
+|---|---|---|
+|![source.png](source.png)   | ![template.png](template.png)   | ![output.jpg](output.png)   |
 
 ## Further customization
 

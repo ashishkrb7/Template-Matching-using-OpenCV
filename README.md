@@ -17,7 +17,7 @@ The script takes in three command line arguments: the path to the source image, 
 python template_matching.py -s source.png -t template.png -o output
 ```
 
-The script will output the location of the best match, as well as save the source image with a rectangle drawn around the matched region.
+The script will output the location of the best match, as well as save the source image with a rectangle drawn around the matched region in addition on coordinates in json.
 
 Note:-
 

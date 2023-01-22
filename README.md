@@ -6,7 +6,8 @@ This repository contains a Python script for performing template matching using 
 
 - Python 3.10.9
 - Numpy
-- OpenCV (pip install opencv-python)
+- Matplotlib
+- OpenCV
 
 ## Usage
 

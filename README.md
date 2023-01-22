@@ -47,10 +47,10 @@ You can also use different methods of comparison like cv2.TM_CCOEFF, cv2.TM_CCOE
 - Push to the branch (`git push origin my-new-feature`)
 - Create a new Pull Request
 
-### Authors
+### Author
 
-Ashish Kumar
+[Ashish Kumar](ashish.krb7@gmail.com)
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
